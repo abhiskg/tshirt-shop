@@ -5,3 +5,7 @@
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
 }
+
+.component {
+  width: min(90%, 1300px);
+}
